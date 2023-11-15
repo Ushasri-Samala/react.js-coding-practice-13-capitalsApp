@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.current-container {
+  background-color: #f8fafc;
+  padding: 40px;
+  border-radius: 10px;
+}
+.capitals-container {
+  display: flex;
+  height: 30px;
+  align-items: center;
+}
+.header {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+.option {
+  color: #000000;
+  font-family: 'Roboto';
+}
+.country-name {
+  font-size: 28px;
+  font-weight: bold;
+  color: #1e293b;
+  font-family: 'Roboto';
+}
